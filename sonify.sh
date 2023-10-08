@@ -15,4 +15,4 @@ cargo build --release
 time ./target/release/rustsound
 
 # Combine the video and the sound.
-ffmpeg -i $1 -i target/release/ses.wav -map 0:v -map 1:a -c:v copy -shortest output.mp4
+ffmpeg -i $1 -i ses.wav -map 0:v -map 1:a -c:v copy -shortest output.mp4
