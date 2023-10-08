@@ -15,6 +15,7 @@ Used rust packages:
 
 usage:
 ```bash
+chmod +x sonify.sh
 ./sonify.sh videoname.mp4
 ```
 
