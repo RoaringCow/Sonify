@@ -1,6 +1,8 @@
 # Sonify
 A video sonification software built with rust.
 
+Warning: this project is not polished and may produce some static noise in the sound file.
+
 Note:
   This program only runs on linux and mac (if some dependencies are configured right).
 
