@@ -10,3 +10,8 @@ requirements:
 
 Used rust packages:
 - image (0.24.7): https://crates.io/crates/image
+
+usage:
+```
+./sonify.sh videoname.mp4
+```
